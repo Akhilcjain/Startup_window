@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="Arduino">
+    <file>arduino_edited.jpg</file>
+    <file>arduino_unedit.jpeg</file>
+  </qresource>
+  <qresource prefix="Eclipse">
+    <file>eclipse_uneditted.png</file>
+    <file>eclipse_editted.jpeg</file>
+  </qresource>
+  <qresource prefix="Pycharm">
+    <file>pycharm_uneditted.png</file>
+    <file>pycharm_editted.jpg</file>
+  </qresource>
+  <qresource prefix="Music">
+    <file>music_editted.jpg</file>
+    <file>music_uneditted.jpeg</file>
+    <file>music2_uneditted.jpeg</file>
+    <file>music2_uneditted.jpg</file>
+  </qresource>
+  <qresource prefix="QTDesigner">
+    <file>pyqt_unedited.png</file>
+    <file>pyqt2_edited.png</file>
+  </qresource>
+  <qresource prefix="Videos">
+    <file>videos_edited.jpg</file>
+    <file>videos.jpeg</file>
+  </qresource>
+</RCC>
